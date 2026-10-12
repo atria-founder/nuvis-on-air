@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://atria-founder.github.io/nuvis-on-air/sitemap.xml
